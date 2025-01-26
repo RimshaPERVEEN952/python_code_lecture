@@ -80,7 +80,6 @@ web.write(" Your financial contributions go directly to funding our educational 
 
 web.header(".Volunteer:")
 web.write("Get involved by volunteering your time and skills. Whether you’re mentoring students, assisting in administrative tasks, or sharing your expertise, every bit of help counts.")
-web.video("https://www.facebook.com/share/p/18UcDm1Cgp/")
 web.video("https://youtu.be/rbQks44YG9s?si=h7tHOMMBW-2ygdVs")
 web.header(".Fundraise: ")
 web.write(" Join our fundraising initiatives to raise awareness and funds for TCF. Organize events, drives, or campaigns to support the cause of education.")
